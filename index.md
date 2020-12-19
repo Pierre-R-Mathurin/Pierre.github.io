@@ -1,4 +1,5 @@
-## Welcome to my ePortfolio
+## CS-499 ePortfolio
+## Author: Pierre Mathurin
 
 ## Introduction
 I started my Computer Science program at Southern New Hampshire University back in September of 2018. In 2015, I started at Pueblo Community College in Pueblo Colorado, then I transferred to Unversity of Colorado Colorado Springs for Computer engineering intent for about a year and a half. I then decided to transfer to SNHU online to pursue my bachelor's degree in computer science with the concentration of Software engineering.
