@@ -18,26 +18,10 @@ Additionally, CS-405 Secure Coding focused on common security vulnerabilities th
 
 Generally, all of the combined courses in the computer science program have given me the opportunity to understand the software development and how to communicate with clients to help meet their needs.
 
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pierre0404/Pierre.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Porfolio Links**<br>
+* [Professional Self-Assessment](https://Pierre.github.io/index.html)<br>
+* [Refinement Plan & Code Review](https://Pierre.github.io/CodeReview.html)<br>
+* [Enhancement One](https://Pierre.github.io/EnhancementOne.html)<br>
+* [Enhancement Two](https://Pierre.github.io/EnhancementTwo.html)<br>
+* [Enhancement Three](https://Pierre.github.io/EnhancementThree.html)
