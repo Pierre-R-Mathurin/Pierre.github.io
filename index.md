@@ -20,8 +20,3 @@ Generally, all of the combined courses in the computer science program have give
 
 
 **Porfolio Links**<br>
-* [Professional Self-Assessment](https://Pierre.github.io/index.html)<br>
-* [Code Review](https://Pierre.github.io/CodeReview.html)<br>
-* [Enhancement One](https://Pierre.github.io/EnhancementOne.html)<br>
-* [Enhancement Two](https://Pierre.github.io/EnhancementTwo.html)<br>
-* [Enhancement Three](https://Pierre.github.io/EnhancementThree.html)
